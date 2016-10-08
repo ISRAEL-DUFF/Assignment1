@@ -14,7 +14,4 @@ int main()
 	else cout<<number<<" is an odd integer"<<endl;		// if an integer is not even, then it's odd
 	system("PAUSE");	// pause the console for a moment
 	return 0;		// finally, exit the program
-}	// end of computation
-
-
-		
+}	// end of computation...
